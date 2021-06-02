@@ -1681,6 +1681,14 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 	.newsletter-form input {
 		width: 100%;
 	}
+	.breadcrumb-content-inner h2 {
+		font-size: 12px;
+		letter-spacing: 1px;
+	}
+	.single-team-wrap {
+		padding: 30px;
+		margin-bottom: 15px;
+	}
 
   }
 
